@@ -18,10 +18,15 @@ IdentityServer is an authentication server that implements OpenID Connect (OIDC)
 
 ## Some alternatives
 
-### [ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=visual-studio)
+#### ASP.NET Core Identity
 It is an API that supports user interface (UI) login functionality.
 It is designed to be used together with Duende IdentityServer4.
 Manages users, passwords, profile data, roles, claims, tokens, email confirmation, and more.
+
+## Important Links
+
+#### [ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=visual-studio)
+#### [Words of wisdom for Authentication](https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 
 
 
